@@ -1,2 +1,2 @@
-# demogithub.io
+# demo
 website demo for client
